@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Estrutura de Dados.iml" filepath="$PROJECT_DIR$/Estrutura de Dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista/lista.iml" filepath="$PROJECT_DIR$/lista/lista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista/program/program.iml" filepath="$PROJECT_DIR$/lista/program/program.iml" />
+    </modules>
+  </component>
+</project>
