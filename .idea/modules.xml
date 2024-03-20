@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Estrutura de Dados.iml" filepath="$PROJECT_DIR$/Estrutura de Dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista/ex01/ex01.iml" filepath="$PROJECT_DIR$/lista/ex01/ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista/ex02/ex02.iml" filepath="$PROJECT_DIR$/lista/ex02/ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista/ex03/ex03.iml" filepath="$PROJECT_DIR$/lista/ex03/ex03.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista/lista.iml" filepath="$PROJECT_DIR$/lista/lista.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista/program/program.iml" filepath="$PROJECT_DIR$/lista/program/program.iml" />
     </modules>
